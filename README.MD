@@ -15,6 +15,4 @@ A Street Fighter Style 2 Player Show-down!
 ![](https://github.com/its007Kevin/8-Bit-Hero-2/blob/master/Capture10.png)
 
 
-## [**PLAY NOW**](https://github.com/its007Kevin/8-Bit-Hero-2/blob/master/8%20BIT%20HERO%202%20(DOWNLOAD%20TO%20PLAY).jar)
-
-[View Source Code](https://github.com/its007Kevin/8-Bit-Hero-2)
+## [**DOWNLOAD NOW**](https://github.com/its007Kevin/8-Bit-Hero-2/blob/master/8%20BIT%20HERO%202%20(DOWNLOAD%20TO%20PLAY).jar)
